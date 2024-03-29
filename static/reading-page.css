@@ -1,0 +1,33 @@
+/* The Reading Page */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.blog-post {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.blog-post h1 {
+    margin-bottom: 10px;
+}
+
+.blog-post img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.blog-content {
+    margin-bottom: 20px;
+}
+
+.blog-post p {
+    margin-bottom: 5px;
+}
